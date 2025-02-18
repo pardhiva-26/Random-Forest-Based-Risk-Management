@@ -39,8 +39,8 @@ print(f"Risk Level: {risk_label}, Probability: {risk_probability}")
 ```
 
 ## Project Structure
-- `data_preprocessing.ipynb`: Data cleaning and preprocessing.
-- `model_training.ipynb`: Model training setup.
-- `evaluate_model.ipynb`: Evaluation metrics and confusion matrix.
-- `feature_importance_plot.ipynb`: Visualizes feature importance.
-- `assess_risk.ipynb`: Function to assess credit risk for new applications.
+- `data_preprocessing.py`: Data cleaning and preprocessing.
+- `model_training.py`: Model training setup.
+- `evaluate_model.py`: Evaluation metrics and confusion matrix.
+- `feature_importance_plot.py`: Visualizes feature importance.
+- `assess_risk.py`: Function to assess credit risk for new applications.
